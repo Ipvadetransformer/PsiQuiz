@@ -1,0 +1,7 @@
+{
+  "name": "PsycheQuest: Gamified Psychology Learning",
+  "description": "An interactive, gamified educational platform covering Clinical Psychology, ADHD, Autism Spectrum, and more, powered by Gemini AI for personalized feedback and roleplay scenarios.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
